@@ -1,0 +1,30 @@
+{
+  "name": "npm-typescript-base",
+  "version": "0.0.0",
+  "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unaussprechlich/npm-typescript-base.git"
+  },
+  "author": "unaussprechlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unaussprechlich/npm-typescript-base/issues"
+  },
+  "homepage": "https://github.com/unaussprechlich/npm-typescript-base/readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "@types/chai": "^4.0.10",
+    "@types/node": "^9.3.0",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3",
+    "mocha-typescript": "^1.1.12",
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
+}
